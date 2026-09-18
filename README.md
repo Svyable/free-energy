@@ -1,30 +1,30 @@
-# Svyable
+# free-energy
 
-> **Solving the distillate crisis.** *Sven-viable solutions for humanity's strangest problems.*
+> Humanity runs on energy. This is where we figure out how to make it free.
 
-## The Crisis
+## The Mission
 
-Somewhere between the third pot of coffee and the fifth "one more thing," humanity discovered a problem it couldn't unsee: the **distillate crisis**. Too much noise, too little signal. Everything distilled down to hot takes, nobody keeping the good stuff.
+The grid is a subscription nobody remembers signing up for. Every bill is a reminder that the most abundant stuff in the universe — sunlight, wind, heat, motion — somehow costs money by the time it reaches a wall socket.
 
-Svyable exists to fix that — to take the raw, chaotic input of the world and distill it into things that are actually *viable*. Sven-viable.
+`free-energy` is an open lab notebook for fixing that. Real physics, real prototypes, zero gatekeeping.
 
 ## The Plan
 
-1. **Ingest the chaos** — collect the noise, the half-ideas, the 2am schemes.
-2. **Distill** — squeeze out what's real, keep what works, discard the rest.
-3. **Ship the viable** — if it can't survive contact with a Tuesday, it doesn't ship.
+1. **Survey what's real** — physics first, vibes second (vibes still count).
+2. **Prototype the viable** — if it can't survive contact with a Tuesday, it doesn't ship.
+3. **Open-source everything** — free energy that isn't free isn't free energy.
 
 ## Roadmap
 
-- [x] Declare the mission
-- [ ] Define the first distillate worth saving
+- [x] Claim the name
+- [ ] Define the first experiment
 - [ ] Build the thing
 - [ ] Tell humanity (politely)
 
 ## Contributing
 
-Got a crisis of your own? Open an issue. Bring data, bring jokes, bring both.
+Bring data, bring prototypes, bring wild ideas with math attached. Open an issue and make your case.
 
 ## License
 
-MIT — distill freely.
+MIT — energy wants to be free.
